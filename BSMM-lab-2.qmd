@@ -1,14 +1,21 @@
 ---
 title: "BSMM-lab-2"
 subtitle: "BSMM 8740 Fall 2023"
-author: "Add your name here"
-date: "Add the date here"
+author: "Ritwika Wripridistha"
+date: "25TH SEP 2023"
 format: html
 editor: visual
 self-contained: true
 ---
 
 ## Setup
+
+```{r}
+install.packages("tidymodels")
+install.packages("gt")
+install.packages("gtExtras")
+install.packages("DataExplorer")
+```
 
 Load packages and data:
 
